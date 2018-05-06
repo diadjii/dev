@@ -15,4 +15,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
     }
+
+    //on fait un petit test avec git quoi
 }
